@@ -24,7 +24,7 @@ namespace GBV_Seminar
             MessageBox.Show("Welcome to the Gender Based Violence Seminar Ticket Purchase!");
             lblTitle.Text = sTitle;
             pnlInfo.BackColor = Color.Black;
-            pnlTitle.BackColor = Color.Red;
+            pnlTitle.BackColor = Col or.Red;
             lblInfo.ForeColor = Color.White;
    
             txtName.TabIndex = 0;
@@ -105,7 +105,6 @@ namespace GBV_Seminar
             lblTitle.ForeColor = Color.Black;
 
             txtName.TabIndex = 0;
-
         }
     }
 }
